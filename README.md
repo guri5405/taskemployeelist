@@ -44,4 +44,14 @@ src/
 * **App.jsx** → Root component of the application.
 * **main.jsx** → Entry point of the React application.
 * **App.css / index.css** → Styling files.
-s
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* CSS3
+* Vite / React Environment
+
+
+## 📦 Installation
+
