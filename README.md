@@ -54,4 +54,22 @@ src/
 
 
 ## 📦 Installation
+Clone the repository:
 
+```bash
+git clone https://github.com/guri5405/taskemployeelist.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+## ▶️ Running the Project
+
+Start the development server:
+
+```bash
+npm run dev
+```
